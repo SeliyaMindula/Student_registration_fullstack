@@ -1,0 +1,50 @@
+
+<div class="container my-5">
+  <h1 class="mb-3">Students</h1>
+
+  <div class="mb-3">
+    <input type="text" [(ngModel)]="searchTerm" (input)="onSearch()" placeholder="Search students...">
+  </div>
+
+  <table class="table" *ngIf="filteredStudents && filteredStudents.length > 0; else noDataTemplate">
+    <thead>
+      <tr>
+        <th scope="col" (click)="sortStudents('firstName')">First Name <span *ngIf="sortField === 'firstName'">{{ sortOrder === 'asc' ? '↑' : '↓' }}</span></th>
+        <th scope="col" (click)="sortStudents('lastName')">Last Name <span *ngIf="sortField === 'lastName'">{{ sortOrder === 'asc' ? '↑' : '↓' }}</span></th>
+        <th scope="col" (click)="sortStudents('mobile')">Mobile <span *ngIf="sortField === 'mobile'">{{ sortOrder === 'asc' ? '↑' : '↓' }}</span></th>
+        <th scope="col" (click)="sortStudents('email')">Email <span *ngIf="sortField === 'email'">{{ sortOrder === 'asc' ? '↑' : '↓' }}</span></th>
+        <th scope="col" (click)="sortStudents('nic')">NIC <span *ngIf="sortField === 'nic'">{{ sortOrder === 'asc' ? '↑' : '↓' }}</span></th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let student of filteredStudents | paginate: { itemsPerPage: tableSize, currentPage: page, totalItems: count }; let i = index">
+        <td>{{ student.firstName }}</td>
+        <td>{{ student.lastName }}</td>
+        <td>{{ student.mobile }}</td>
+        <td>{{ student.email }}</td>
+        <td>{{ student.nic }}</td>
+        <td><a [routerLink]="['/students', 'edit', student.id]">View</a></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <ng-template #noDataTemplate>
+    <p>No Students Found!</p>
+  </ng-template>
+
+  <div>
+    <pagination-controls
+      previousLabel="Prev"
+      nextLabel="Next"
+      (pageChange)="onTableDataChange($event)">
+    </pagination-controls>
+  </div>
+
+  <div class="mt-3">
+    <label for="tableSize">Items per page:</label>
+    <select id="tableSize" [(ngModel)]="tableSize" (change)="onTableSizeChange($event)">
+      <option *ngFor="let size of [5, 10, 15, 20]" [value]="size">{{ size }}</option>
+    </select>
+  </div>
+</div>

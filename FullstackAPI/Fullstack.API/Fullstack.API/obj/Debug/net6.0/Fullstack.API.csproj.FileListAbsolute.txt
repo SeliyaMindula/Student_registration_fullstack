@@ -1,0 +1,174 @@
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\appsettings.Development.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\appsettings.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.exe
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.deps.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.runtimeconfig.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.pdb
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Azure.Core.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Azure.Identity.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Humanizer.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.csproj.AssemblyReference.cache
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.AssemblyInfoInputs.cache
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.AssemblyInfo.cs
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.csproj.CoreCompileInputs.cache
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.MvcApplicationPartsAssemblyInfo.cs
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.MvcApplicationPartsAssemblyInfo.cache
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.Fullstack.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Fullstack.API.props
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fullstack.API.props
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fullstack.API.props
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\scopedcss\bundle\Fullstack.API.styles.css
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.csproj.CopyComplete
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\refint\Fullstack.API.dll
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.pdb
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.genruntimeconfig.cache
+E:\My project\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\ref\Fullstack.API.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\appsettings.Development.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\appsettings.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.exe
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.deps.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.runtimeconfig.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Fullstack.API.pdb
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Azure.Core.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Azure.Identity.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Humanizer.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.CodeDom.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Memory.Data.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Text.Json.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.csproj.AssemblyReference.cache
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.AssemblyInfoInputs.cache
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.AssemblyInfo.cs
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.csproj.CoreCompileInputs.cache
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.MvcApplicationPartsAssemblyInfo.cs
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.MvcApplicationPartsAssemblyInfo.cache
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.Fullstack.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Fullstack.API.props
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fullstack.API.props
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fullstack.API.props
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\scopedcss\bundle\Fullstack.API.styles.css
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.csproj.CopyComplete
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\refint\Fullstack.API.dll
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.pdb
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\Fullstack.API.genruntimeconfig.cache
+E:\My project\BACKUP\validation letest\.net web API\FullstackAPI\Fullstack.API\Fullstack.API\obj\Debug\net6.0\ref\Fullstack.API.dll

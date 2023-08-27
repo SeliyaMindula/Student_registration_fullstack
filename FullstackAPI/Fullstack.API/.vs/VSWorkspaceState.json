@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Fullstack.API",
+    "\\Fullstack.API\\Controllers",
+    "\\Fullstack.API\\Data",
+    "\\Fullstack.API\\Migrations",
+    "\\Fullstack.API\\Models",
+    "\\Fullstack.API\\Properties"
+  ],
+  "SelectedNode": "\\Fullstack.API\\Controllers\\StudentsController.cs",
+  "PreviewInSolutionExplorer": false
+}
